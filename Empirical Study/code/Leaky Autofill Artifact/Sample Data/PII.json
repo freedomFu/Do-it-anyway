@@ -1,0 +1,18 @@
+{
+    "last_name": "Doe",
+    "middle_name": "Alexander",
+    "first_name": "John",
+    "birthday": "1990-05-15",
+    "gender": "Male",
+    "address": "1234 Maple Street",
+    "city": "Springfield",
+    "state": "Illinois",
+    "country": "United States",
+    "postal_code": "62704",
+    "phone": "+1-123-456-7890",
+    "email": "john.doe@example.com",
+    "company": "FakeCorp Inc.",
+    "department": "Marketing",
+    "position": "Marketing Manager",
+    "occupation": "Marketing Professional"
+}
