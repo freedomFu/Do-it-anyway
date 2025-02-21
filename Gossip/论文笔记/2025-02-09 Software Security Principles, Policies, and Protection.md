@@ -28,3 +28,10 @@
 
 `Enjoy the read and hack the planet.`
 
+## 2. Software and System Security Principles 
+
+软件安全的目的是允许特定用户使用软件，但是阻止未授权用户的使用。任何意外的使用都可能由于对预定资源的非定义使用都可能造成危害。
+
+
+
+

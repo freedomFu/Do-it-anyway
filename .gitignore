@@ -18,3 +18,16 @@ CTF-All-In-One/*
 *.mp4
 *.mp3
 *.avi
+
+*.aux
+*.lof
+*.log
+*.lot
+*.out
+*.synctex.gz
+*.toc
+*.sh
+*.bat
+.DS_Store
+*.bbl
+*.blg
